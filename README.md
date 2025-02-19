@@ -43,10 +43,10 @@ This is a beautiful animated love letter project created using **HTML, CSS, and 
 4. Floating **heart animations** appear for added romantic effect.
 
 ## Live Demo 🌐
-You can try the live version [here](#) (Add your GitHub Pages or hosted link).
+You can try the live version [here](https://joseph1997-eng.github.io/LoverLetterForCrush/) (Add your GitHub Pages or hosted link).
 
 ## Screenshots 📸
-![Love Letter Preview](https://your-image-link.com) *(Replace with your actual screenshot)*
+![Love Letter Preview]([https://your-image-link.com](https://joseph1997-eng.github.io/LoverLetterForCrush/)) *(Replace with your actual screenshot)*
 
 ## Customization 🎨
 - **Modify the letter content** by editing the text inside the `<div class="letter">`.
@@ -63,6 +63,6 @@ This project is **open-source** under the MIT License. Feel free to use, modify,
 
 ## Contact 📧
 If you have any questions or suggestions, feel free to reach out:
-- **GitHub:** [Your GitHub](https://github.com/YOUR-USERNAME)
-- **Email:** your-email@example.com
+- **GitHub:** [Your GitHub](https://github.com/Joseph1997-eng)
+- **Email:** josephsaimonn@gmail.com
 
